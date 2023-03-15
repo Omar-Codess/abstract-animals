@@ -26,5 +26,10 @@ public abstract class Animale {
         this.type = type;
     }
 
-    public abstract void dormi();
+    public void dormi(){
+        System.out.println("Zzzzzzz");
+    };
+
+    public abstract void verso();
+    public abstract void mangia();
 }
