@@ -26,5 +26,16 @@ public class Main {
         delfino.verso();
         delfino.mangia();
         delfino.dormi();
+
+
     }
+
+    public static void faiVolare(IVolante ){
+
+    }
+
+    public static void faiNuotare(INuotante ){
+
+    }
+
 }

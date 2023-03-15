@@ -1,6 +1,6 @@
 package org.lessons.java.animals;
 
-public class Aquila extends Animale{
+public class Aquila extends Animale implements IVolante{
 
     public Aquila(String name, String type) {
         super(name, type);
@@ -17,4 +17,5 @@ public class Aquila extends Animale{
     public void vola(){
         System.out.println("Sto volando!!!");
     }
+
 }
