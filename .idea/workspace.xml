@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67b261ac-35eb-4e97-8c76-08b867241034" name="Changes" comment="aggiunti metodi alla classe Animale">
+    <list default="true" id="67b261ac-35eb-4e97-8c76-08b867241034" name="Changes" comment="implementate le classi degli animali">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/lessons/java/animals/Aquila.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/lessons/java/animals/Aquila.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/lessons/java/animals/Cane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/lessons/java/animals/Cane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/lessons/java/animals/Passerotto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/lessons/java/animals/Passerotto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,12 +60,20 @@
       <option name="project" value="LOCAL" />
       <updated>1678888222265</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="implementate le classi degli animali">
+      <created>1678889135813</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678889135813</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="implementata classe Animale" />
     <MESSAGE value="aggiunti metodi alla classe Animale" />
-    <option name="LAST_COMMIT_MESSAGE" value="aggiunti metodi alla classe Animale" />
+    <MESSAGE value="implementate le classi degli animali" />
+    <option name="LAST_COMMIT_MESSAGE" value="implementate le classi degli animali" />
   </component>
 </project>
