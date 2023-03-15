@@ -27,15 +27,17 @@ public class Main {
         delfino.mangia();
         delfino.dormi();
 
+        faiVolare((IVolante) aquila);
 
+        faiNuotare((INuotante) delfino);
     }
 
-    public static void faiVolare(IVolante ){
-
+    public static void faiVolare(IVolante animale){
+        animale.vola();
     }
 
-    public static void faiNuotare(INuotante ){
-
+    public static void faiNuotare(INuotante animale){
+        animale.nuota();
     }
 
 }

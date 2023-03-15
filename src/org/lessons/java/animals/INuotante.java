@@ -1,5 +1,5 @@
 package org.lessons.java.animals;
 
 public interface INuotante {
-    public void faiNuotare();
+    public void nuota();
 }

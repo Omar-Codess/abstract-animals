@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67b261ac-35eb-4e97-8c76-08b867241034" name="Changes" comment="aggiunti metodi vola e nuota">
+    <list default="true" id="67b261ac-35eb-4e97-8c76-08b867241034" name="Changes" comment="push generico">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/lessons/java/animals/Aquila.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/lessons/java/animals/Aquila.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/lessons/java/animals/Delfino.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/lessons/java/animals/Delfino.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/lessons/java/animals/INuotante.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/lessons/java/animals/INuotante.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/lessons/java/animals/IVolante.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/lessons/java/animals/IVolante.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/org/lessons/java/animals/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/lessons/java/animals/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/lessons/java/animals/Passerotto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/lessons/java/animals/Passerotto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678891407475</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="push generico">
+      <created>1678896798235</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1678896798235</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -95,6 +101,7 @@
     <MESSAGE value="implementate le classi degli animali" />
     <MESSAGE value="istanziati animali in main e testati metodi" />
     <MESSAGE value="aggiunti metodi vola e nuota" />
-    <option name="LAST_COMMIT_MESSAGE" value="aggiunti metodi vola e nuota" />
+    <MESSAGE value="push generico" />
+    <option name="LAST_COMMIT_MESSAGE" value="push generico" />
   </component>
 </project>
