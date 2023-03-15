@@ -13,4 +13,8 @@ public class Passerotto extends Animale{
     public void mangia() {
         System.out.println("Cerali/semi");
     }
+
+    public void vola(){
+        System.out.println("Sto volando!!!");
+    }
 }

@@ -13,4 +13,8 @@ public class Aquila extends Animale{
     public void mangia() {
         System.out.println("Lepri/conigli");
     }
+
+    public void vola(){
+        System.out.println("Sto volando!!!");
+    }
 }
